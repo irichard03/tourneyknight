@@ -1,7 +1,7 @@
 {
   "name": "tourneyknight",
   "version": "1.0.0",
-  "description": "A simple web app for tracking a game of Age of Sigmar",
+  "description": "A simple web app for tracking tabletop miniature game rules",
   "main": "index.js",
   "repository": "https://github.com/irichard03/tourneyknight.git",
   "author": "Ian Richard <ianrichard03@gmail.com>",
